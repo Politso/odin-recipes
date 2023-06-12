@@ -1,0 +1,29 @@
+body{background-color: bisque;}
+h1 {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+}
+a {
+    color: brown;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pizza {
+    text-align: center;
+    color: green;
+}
+.nachos {
+    text-align: center;
+}
+.hamburger {
+    text-align: center;
+}
+.chef {
+    margin: auto;
+  width: 290px; 
+  padding: 50px;
+  font-family: 'Arial', sans-serif; 
+  color: #33475b;   
+}
